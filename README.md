@@ -1,7 +1,7 @@
-# StoryBooks
+# StoryBooks 
 
 ---
-
+[Deployment](https://github.com/kmal808/storybooks/edit/main/README.md#locally-deployed-and-self-hosted-live-site)
 # Introduction
 
 A simple CRUD app that allows users to create public and private stories. Features include:
@@ -57,3 +57,6 @@ This is a beginner or intermediate application to help understand the simple and
 - Have fun 😎
 
 ---
+
+# Locally deployed and self-hosted live site
+- https://storybooks.bobbynoodles.com/
